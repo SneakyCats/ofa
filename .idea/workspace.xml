@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fda5027-d1b3-4112-b03d-2341f8f42653" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ofa/entretien/core/domain/OrderingCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ofa/entretien/core/domain/SubContractorAlreadyAddedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ofa/entretien/core/domain/Subcontactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/ofa/entretien/core/domain/OrderingCompanyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/ofa/entretien/core/domain/SubcontactorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.9.0/libexec" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N6HtM1upZHk65QgvjVKZR2AUXL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.26694915",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.ofa.entretien.core.domain" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.ofa.entretien.core.domain" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.ofa.entretien.core.domain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OrderingCompanyTest">
+    <configuration name="OrderingCompanyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="entretien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ofa.entretien.core.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ofa.entretien.core.domain" />
+      <option name="MAIN_CLASS_NAME" value="org.ofa.entretien.core.domain.OrderingCompanyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderingCompanyTest.shouldAddManySubContactorIntoOrderingCompany" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="entretien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ofa.entretien.core.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ofa.entretien.core.domain" />
+      <option name="MAIN_CLASS_NAME" value="org.ofa.entretien.core.domain.OrderingCompanyTest" />
+      <option name="METHOD_NAME" value="shouldAddManySubContactorIntoOrderingCompany" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderingCompanyTest.shouldAddSubContactorIntoOrderingCompany" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="entretien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ofa.entretien.core.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ofa.entretien.core.domain" />
+      <option name="MAIN_CLASS_NAME" value="org.ofa.entretien.core.domain.OrderingCompanyTest" />
+      <option name="METHOD_NAME" value="shouldAddSubContactorIntoOrderingCompany" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderingCompanyTest.shouldGetExceptionWhenOrderingCompanyAddHimselfLikeSubcontactor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="entretien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ofa.entretien.core.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ofa.entretien.core.domain" />
+      <option name="MAIN_CLASS_NAME" value="org.ofa.entretien.core.domain.OrderingCompanyTest" />
+      <option name="METHOD_NAME" value="shouldGetExceptionWhenOrderingCompanyAddHimselfLikeSubcontactor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderingCompanyTest.shouldNotAddTwiceTheSameSubContractor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="entretien" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ofa.entretien.core.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.ofa.entretien.core.domain" />
+      <option name="MAIN_CLASS_NAME" value="org.ofa.entretien.core.domain.OrderingCompanyTest" />
+      <option name="METHOD_NAME" value="shouldNotAddTwiceTheSameSubContractor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntretienApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="entretien" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.ofa.entretien.EntretienApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderingCompanyTest" />
+        <item itemvalue="JUnit.OrderingCompanyTest.shouldGetExceptionWhenOrderingCompanyAddHimselfLikeSubcontactor" />
+        <item itemvalue="JUnit.OrderingCompanyTest.shouldNotAddTwiceTheSameSubContractor" />
+        <item itemvalue="JUnit.OrderingCompanyTest.shouldAddSubContactorIntoOrderingCompany" />
+        <item itemvalue="JUnit.OrderingCompanyTest.shouldAddManySubContactorIntoOrderingCompany" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fda5027-d1b3-4112-b03d-2341f8f42653" name="Changes" comment="" />
+      <created>1678977827640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678977827640</updated>
+      <workItem from="1678977829627" duration="530000" />
+      <workItem from="1678978430450" duration="127000" />
+      <workItem from="1678981094329" duration="1235000" />
+      <workItem from="1678990276575" duration="14681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/ofa/entretien/core/domain/OrderingCompanyTest.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
